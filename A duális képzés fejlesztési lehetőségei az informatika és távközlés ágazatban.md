@@ -8,16 +8,16 @@ Az informatika és távközlés ágazat nemzetgazdasági szempontból stratégia
 
 ### 1.2 Helyzetelemzés és problématérkép
 
-A duális szakképzésben részt vevő tanulók aránya jelenleg legfeljebb 10%, ami jelentősen elmarad a gazdasági igényektől. A részvétel alacsony arányának fő okai:
+A duális szakképzésben részt vevő tanulók aránya jelenleg kevesebb, mint 5%, ami jelentősen elmarad a gazdasági igényektől és a Szakképzés 4.0 programban megfogalmazott elvárásoktól. A részvétel alacsony arányának fő okai:
 
-- vállalati információhiány,
+- vállalati információ- és tapasztalathiány,
 - nem kellőképp motiváló finanszírozási rendszer,
 - jelentős adminisztratív és jogi terhek,
-- valamint ágazatspecifikus additív költségek, mint a magas bérköltségű mérnöki mentori szerepkörök vagy a szoftverlicenc díjak.
+- valamint ágazatspecifikus additív költségek, úgy mint a magas bérköltségű mérnöki mentori szerepkörök vagy a szoftverlicenc díjak.
 
 #### 1.2.1 Duális részvétel adatai
 
-- Az ágazatban tanulók mindössze \~10%-a vesz részt duális képzésben.
+- Az ágazatban tanulók mindössze \~5%-a vesz részt duális képzésben.
 - Erőteljes regionális egyenlőtlenségek tapasztalhatók.
 
 #### 1.2.2 Problémák
@@ -33,6 +33,7 @@ A duális szakképzésben részt vevő tanulók aránya jelenleg legfeljebb 10%,
 A cél egy olyan modern, rugalmas és gazdaságilag is fenntartható duális képzési rendszer kialakítása, amely:
 
 - lehetővé teszi az ágazatban működő mikro-, kis- és középvállalatok a mostaninál jóval nagyobb arányú bevonását,
+- vonzóbb és rugalmasabb formájú részvételi lehetőséget kínál a duális partnerek számára,
 - csökkenti az adminisztrációs terheket,
 - igazodik a munkaerőpiaci elvárásokhoz,
 - és vonzóbbá teszi a duális képzést a tanulók számára.
@@ -71,10 +72,12 @@ A dokumentum az alábbi kulcsterületeken fogalmaz meg javaslatokat:
 
 #### 1.4.2 Finanszírozási rendszer átalakítása
 
-- Szocho-levonhatóság kiszélesítése.
-- Társasági adóalap csökkentés, sikerdíjas rendszer bevezetése.
+- A szakképzési munkaszerződés keretében fizetendő munkabér, a SZOCHO visszatérítés elszámolás és az ösztöndíjrendszer harmonizálása.
 
-#### 1.4.3 Adminisztratív akadályok csökkentése
+  - A szakképzési munkaszerződés keretében fizetendő munkabér a SZOCHO visszatérítéshez hasonlóan a duális képzésben töltött órákkal legyen arányos.
+  - Az ösztöndíjrendszerrel való összehangolást a munkabér minimum összegének meghatározása biztosítja (minimálisan az adott évfolyamon fizethető legmagasabb ösztöndíj).
+
+#### 1.4.3 Adminisztratív terhek csökkentése
 
 - KRÉTA integrációk, egyablakos rendszerek kialakítása.
 - Rövid idejű szakmai gyakorlat adminisztratív egyszerűsítése.
@@ -95,10 +98,6 @@ A javaslatcsomag megvalósításával a duális képzésbe bevont tanulók arán
 ---
 
 ## 2. Helyzetelemzés és problématérkép
-
-### 2.1 Duális részvétel adatai
-
-### 2.2 Problémák
 
 ## 3. Fejlesztési célok és irányelvek
 
