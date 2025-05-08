@@ -12,7 +12,6 @@ A duális szakképzésben részt vevő tanulók aránya jelenleg kevesebb, mint 
 
 - vállalati információ- és tapasztalathiány,
 - nem kellőképp motiváló finanszírozási rendszer,
-- jelentős adminisztratív és jogi terhek,
 - valamint ágazatspecifikus additív költségek, úgy mint a magas bérköltségű mérnöki mentori szerepkörök vagy a szoftverlicenc díjak.
 
 #### 1.2.1 Duális részvétel adatai
@@ -24,7 +23,6 @@ A duális szakképzésben részt vevő tanulók aránya jelenleg kevesebb, mint 
 
 - **Információhiány**: Vállalatok nem ismerik kellőképpen a duális rendszer előnyeit, feltételeit.
 - **Finanszírozás**: Az ágazatra vonatkozó szakmaszorzó alacsony (2,2) és nem tükrözi a duális képzés költségeit.
-- **Adminisztráció**: Túltelhelt KRÉTA rendszer, bejelentési kötelezettségek, jogviszony-kezelési nehézségek.
 - **Eltérő követelmények**: A potenciális duális partnerek által képviselt technológiák és szakmai kompetenciák a legtöbb esetben nem fedik le egy-egy szakma teljes kimeneti követelményrendszerét.
 - **Ágazatspecifikus költségek**: A duális képzésben közreműködő mérnökök magas bérköltsége, valamint a szoftver- és szolgáltatáslicencek komoly anyagi terhet jelentenek.
 
@@ -61,8 +59,8 @@ A cél egy olyan modern, rugalmas és gazdaságilag is fenntartható duális ké
 
 A dokumentum az alábbi kulcsterületeken fogalmaz meg javaslatokat:
 
-- a szakmaszorzók emelése és a finanszírozási modell átalakítása,
-- adminisztratív könnyítések bevezetése,
+- a szakmaszorzók emelése
+- a finanszírozási modell átalakítása,
 - a képzőhelyek közötti jogviszonykezelés egyértelműsítése,
 - valamint a képzési kimeneti követelmények korszerűsítése.
 
@@ -77,12 +75,7 @@ A dokumentum az alábbi kulcsterületeken fogalmaz meg javaslatokat:
   - A szakképzési munkaszerződés keretében fizetendő munkabér a SZOCHO visszatérítéshez hasonlóan a duális képzésben töltött órákkal legyen arányos.
   - Az ösztöndíjrendszerrel való összehangolást a munkabér minimum összegének meghatározása biztosítja (minimálisan az adott évfolyamon fizethető legmagasabb ösztöndíj).
 
-#### 1.4.3 Adminisztratív terhek csökkentése
-
-- KRÉTA integrációk, egyablakos rendszerek kialakítása.
-- Rövid idejű szakmai gyakorlat adminisztratív egyszerűsítése.
-
-#### 1.4.4 Képzőhelyi struktúrák tisztázása
+#### 1.4.3 Képzőhelyi struktúrák tisztázása
 
 - Ágazati Képzőközpont és gyakorlati helyek szerepének elválasztása.
 - Jogviszonykezelés, felelősségek és döntéshozatali jogosultságok átrendezése.
