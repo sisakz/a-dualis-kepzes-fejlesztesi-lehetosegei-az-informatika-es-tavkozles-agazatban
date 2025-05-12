@@ -3,7 +3,7 @@
 ## 1. Bevezető
 
 Az informatika és távközlés ágazat nemzetgazdasági szempontból stratégiai fontosságú, hiszen a digitális infrastruktúra, az adatbiztonság, a hálózati rendszerek és a szoftverfejlesztés területein biztosítja a gazdaság működésének és fejlődésének alapjait. A szakképzésen belül ebben az ágazatban tanul a legtöbb diák, így a képzési rendszer eredményessége különösen nagy hatással bír a munkaerőpiacra és a gazdaság versenyképességére.
-Az Informatika és Távközlés ágazat Készségtanácsának munkacsoportja közel egyéves szakmai munkát követően ebben a doklumentumban összegezte a felnérésekkel és adatokkal feltárt aktuális helyzetet, az azonosított problémákat és az ezek hatékony kezelését szolgáló fejlesztési javaslatokat.
+Az informatika és távközlés ágazat Készségtanácsának munkacsoportja közel egyéves szakmai munkát követően ebben a dokumentumban összegezte a felnérésekkel és adatgyűjtéssel feltárt aktuális helyzetet, az azonosított problémákat és az ezek hatékony kezelését szolgáló fejlesztési javaslatokat.
 
 ## 2 Helyzetelemzés és problématérkép
 
@@ -58,26 +58,31 @@ A cél egy olyan modern, rugalmas és gazdaságilag is fenntartható duális ké
 
 A dokumentum az alábbi kulcsterületeken fogalmaz meg javaslatokat:
 
-- az ágazat duális jellegével harmonizáló működési modellek erősítése,
+- az ágazat jellemzőivel harmonizáló működési modellek erősítése,
 - a szakmaszorzók emelése
 - a finanszírozási modell módosítása,
 - valamint a képzési kimeneti követelmények korszerűsítése.
 
-### 4.1 2,85-ös szakmaszorzó bevezetése
+### 4.1 Az ágazat jellemzőivel harmonizáló működési modellek erősítése
+
+#### 4.1.1 Ágazati képzőközpontok létrehozásának támogatása
+
+Az ágazati duális képzés széles körben csak a munkahelyi környezetet jól szimuláló oktatási környezetben valósítható meg. Ilyen környezet kialakítására önállóan a legtöbb cég nem tud vállalkozni, ugyanakkor az ágazati képzőközpont működési formában több cég és szakmai szervezet összefogásával ez megvalósítható. Az ágazati képzőközpont megoldást ad arra a problémára is, hogy az egyes cégek önállóan lennének képesek a teljes szakmai oktatást felvállalni.
+Ahhoz, hogy minél több ilyen képzőközpont jöhessen létre szükség van az indulást segítő intézkedésekre. ILyen lehet az infrastrukturális és tárgyi feltételek kialakításához vissza nem téritendő támogatás nyújtása pályázati formában, illetve kamatmentes vagy alacsony kamatozású hitel biztosítása a likviditás megteremtéséhez.
+
+#### 4.1.2 A duális képzés alternatív formáinak támogatása
+
+// TODO:
+
+### 4.2 2,85-ös szakmaszorzó bevezetése
 
 - A jelenlegi 2,2-es szorzó helyett az ágazati duális képzés magas költségeit (mérnöki óradíjak, licensz költségek, infrsatruktúra biztosítása) megfelelően tükröző 2,85-ös szorzó sok cég számára nullszaldó közeli gazdálkodást tenne lehetővé, ami az egyéb előnyöket is figyelembe véve szignifikánsan emelné a bekapcsolódó cégek számát.
 
-### 4.2 Finanszírozási rendszer átalakítása
+### 4.3 Finanszírozási rendszer átalakítása
 
 - A szakképzési munkaszerződés keretében fizetendő munkabér, a SZOCHO visszatérítés elszámolás és az ösztöndíjrendszer harmonizálása.
-
   - A szakképzési munkaszerződés keretében fizetendő munkabér a SZOCHO visszatérítéshez hasonlóan a duális képzésben töltött órákkal legyen arányos.
   - Az ösztöndíjrendszerrel való összehangolást a munkabér minimum összegének meghatározása biztosítja (minimálisan az adott évfolyamon fizethető legmagasabb ösztöndíj).
-
-### 4.3 Képzőhelyi struktúrák tisztázása
-
-- Ágazati Képzőközpont és gyakorlati helyek szerepének elválasztása.
-- Jogviszonykezelés, felelősségek és döntéshozatali jogosultságok átrendezése.
 
 ### 1.5 Elvárt hatások
 
